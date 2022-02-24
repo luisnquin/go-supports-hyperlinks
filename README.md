@@ -38,9 +38,9 @@ func main() {
 
 ## Platform support
 
-- [x] Linux support
-- [x] Darwin support
-- [ ] Windows support
+- [x] Linux
+- [x] Darwin
+- [ ] Windows
 
 Still, read the **CLI section** if you want to force it on Windows
 
